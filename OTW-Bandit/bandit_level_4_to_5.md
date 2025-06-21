@@ -28,7 +28,7 @@ Find the password for the next level, which is stored in the only human-readable
 This level taught me how to quickly distinguish human-readable files from binary files using the `file` command—a useful technique when working with lots of unknown files in a directory.
 
 
-
+![Bandit Level 0 to 1 Screenshot](images/bandit4-5.png)
 
 
 
