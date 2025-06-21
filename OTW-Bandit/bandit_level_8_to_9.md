@@ -37,5 +37,5 @@ This challenge taught me the importance of sorting data before using `uniq` to a
 
 ---
 
-*(Add your screenshot here for documentation!)*
+![Bandit Level 0 to 1 Screenshot](images/bandit8-9.png)
 
