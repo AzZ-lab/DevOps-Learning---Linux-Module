@@ -22,7 +22,8 @@ For this challenge, my goal was to find the password for the next level by locat
 Understanding and checking file permissions is important in Linux, especially for security and CTF-style challenges like Bandit. This approach made sure I didn’t try to access a file I wasn’t allowed to, and built my confidence in basic command line navigation.
 
 ---
-![Screenshot of solving Bandit Level 0](images/level0.png)
+![Screenshot of solving Bandit Level 0](images/bandit0-1.png)
+
 
 
 
