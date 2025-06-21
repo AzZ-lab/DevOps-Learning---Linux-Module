@@ -1,7 +1,3 @@
-Of course! Here’s a **tailored writeup** just for your approach to Bandit Level 0 → Level 1, written clearly for your README:
-
----
-
 ## Bandit Level 0 → Level 1: My Approach
 
 For this challenge, my goal was to find the password for the next level by locating and reading a file named `readme` in the home directory.
@@ -21,7 +17,6 @@ For this challenge, my goal was to find the password for the next level by locat
 
 Understanding and checking file permissions is important in Linux, especially for security and CTF-style challenges like Bandit. This approach made sure I didn’t try to access a file I wasn’t allowed to, and built my confidence in basic command line navigation.
 
----
 ![Bandit Level 0 to 1 Screenshot](images/bandit0-1.png)
 
 
