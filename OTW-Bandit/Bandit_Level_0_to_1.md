@@ -23,7 +23,7 @@ Understanding and checking file permissions is important in Linux, especially fo
 
 ---
 
-![Bandit Level 0 to 1 Screenshot](images/bandit0-1.png)
+![Bandit Level 0 to 1 Screenshot](OTW-Bandit/images /bandit0-1.png)
 
 
 
