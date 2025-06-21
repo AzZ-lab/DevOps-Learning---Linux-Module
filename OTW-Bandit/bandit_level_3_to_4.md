@@ -4,6 +4,8 @@
 
 Find the password for the next level, hidden inside a file in the `inhere` directory.
 
+---
+
 ### **My Steps**
 
 1. **List files and directories:**
@@ -30,9 +32,13 @@ Find the password for the next level, hidden inside a file in the `inhere` direc
 
    to display the contents of the hidden file and retrieve the password for the next level.
 
+---
+
 
 **Reflection:**
 This level taught me to look out for hidden files and directories using `ls -a`, and reinforced the importance of exploring the file system carefully in Linux environments.
+
+---
 
 
 ![Bandit Level 0 to 1 Screenshot](images/bandit3-4.png)
