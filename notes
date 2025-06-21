@@ -1,1 +1,172 @@
+# 🐧 Linux Commands Cheat Sheet
+
+> **Your ultimate quick reference for everyday Linux use.**
+
+---
+
+## 📁 File & Directory Management
+
+| Command  | Description                       |
+| -------- | --------------------------------- |
+| `ls`     | List files and directories        |
+| `cd`     | Change directory                  |
+| `pwd`    | Print working directory           |
+| `cp`     | Copy files and directories        |
+| `mv`     | Move/rename files and directories |
+| `rm`     | Remove files                      |
+| `rmdir`  | Remove empty directories          |
+| `mkdir`  | Make directories                  |
+| `find`   | Search for files                  |
+| `locate` | Find files by name                |
+| `touch`  | Create an empty file              |
+| `tree`   | View directory as a tree          |
+
+---
+
+## 📖 File Viewing & Editing
+
+| Command | Description                        |
+| ------- | ---------------------------------- |
+| `cat`   | Concatenate & display file content |
+| `more`  | View file content page by page     |
+| `less`  | View file with backward movement   |
+| `head`  | View first lines of a file         |
+| `tail`  | View last lines of a file          |
+| `nano`  | Simple command-line text editor    |
+| `vim`   | Advanced text editor               |
+| `grep`  | Search for patterns in files       |
+
+---
+
+## 🔒 Permissions & Ownership
+
+| Command | Description                       |
+| ------- | --------------------------------- |
+| `chmod` | Change file/directory permissions |
+| `chown` | Change file owner and group       |
+| `chgrp` | Change group ownership            |
+
+---
+
+## 💻 System Information
+
+| Command    | Description                |
+| ---------- | -------------------------- |
+| `uname -a` | Show system info           |
+| `df -h`    | Show disk space usage      |
+| `du -sh`   | Show directory/file size   |
+| `free -h`  | Show memory usage          |
+| `top`      | Show running processes     |
+| `htop`     | Interactive process viewer |
+| `ps aux`   | Show all running processes |
+| `whoami`   | Print current user ID      |
+| `uptime`   | Show system uptime         |
+| `lscpu`    | CPU architecture info      |
+
+---
+
+## 📦 Package Management
+
+| Command             | Description                          |
+| ------------------- | ------------------------------------ |
+| `apt-get update`    | Update package lists (Debian/Ubuntu) |
+| `apt-get upgrade`   | Upgrade all packages (Debian/Ubuntu) |
+| `yum update`        | Update packages (RHEL/CentOS)        |
+| `dnf upgrade`       | Update packages (Fedora/RHEL 8+)     |
+| `pacman -Syu`       | Update (Arch Linux)                  |
+| `apt install <pkg>` | Install package (Debian/Ubuntu)      |
+| `yum install <pkg>` | Install package (RHEL/CentOS)        |
+| `dnf install <pkg>` | Install package (Fedora/RHEL 8+)     |
+| `pacman -S <pkg>`   | Install package (Arch Linux)         |
+
+---
+
+## 🌐 Networking
+
+| Command             | Description                      |
+| ------------------- | -------------------------------- |
+| `ping <host>`       | Check network connectivity       |
+| `ifconfig`          | Show network interfaces (old)    |
+| `ip a`              | Show network interfaces (new)    |
+| `iwconfig`          | Show wireless interfaces         |
+| `netstat -tulpn`    | Active network connections/ports |
+| `ss -tulpn`         | Modern replacement for netstat   |
+| `traceroute <host>` | Trace network route              |
+| `nslookup <host>`   | Query DNS info                   |
+| `dig <host>`        | Query DNS (detailed)             |
+| `scp <src> <dst>`   | Secure copy over SSH             |
+| `ssh <user>@<host>` | Secure shell connection          |
+| `wget <url>`        | Download files from the web      |
+| `curl <url>`        | Transfer data to/from server     |
+
+---
+
+## 📦 Compression & Archiving
+
+| Command                       | Description          |
+| ----------------------------- | -------------------- |
+| `tar -czvf file.tar.gz <dir>` | Create tarball       |
+| `tar -xzvf file.tar.gz`       | Extract tarball      |
+| `zip file.zip <file/dir>`     | Compress ZIP archive |
+| `unzip file.zip`              | Extract ZIP archive  |
+| `gzip <file>`                 | Compress with gzip   |
+| `gunzip <file.gz>`            | Decompress gzip      |
+
+---
+
+## 👥 User Management
+
+| Command              | Description          |
+| -------------------- | -------------------- |
+| `adduser <username>` | Add new user         |
+| `userdel <username>` | Delete user          |
+| `passwd <username>`  | Change user password |
+| `su <user>`          | Switch user          |
+| `sudo <command>`     | Run as superuser     |
+
+---
+
+## 💽 Disk & Filesystem
+
+| Command    | Description            |
+| ---------- | ---------------------- |
+| `fdisk -l` | List disk partitions   |
+| `mount`    | Mount filesystem       |
+| `umount`   | Unmount filesystem     |
+| `lsblk`    | List block devices     |
+| `blkid`    | Show block device info |
+| `df -Th`   | Disk space by FS type  |
+
+---
+
+## ⚙️ Process Management
+
+| Command          | Description              |
+| ---------------- | ------------------------ |
+| `ps`             | Show running processes   |
+| `top`            | Real-time process view   |
+| `htop`           | Enhanced process monitor |
+| `kill <pid>`     | Kill process by PID      |
+| `killall <name>` | Kill process by name     |
+| `bg`             | Background a job         |
+| `fg`             | Foreground a job         |
+| `jobs`           | List jobs                |
+
+---
+
+## 🚀 Bonus: Useful Shortcuts
+
+* `Tab` (auto-complete command/filename)
+* `Ctrl + C` (terminate running command)
+* `Ctrl + D` (logout/exit terminal)
+* `Ctrl + Z` (pause process)
+* `!!` (repeat last command)
+
+---
+
+> ⭐ **Pro tip:** For manual pages about a command, use `man <command>`. Example: `man ls`
+
+---
+
+\:octocat: *Happy hacking!*
 
