@@ -35,6 +35,9 @@ Find the password for the next level, which is stored in a file named `-` in the
 **Reflection:**
 This challenge showed me how Linux handles filenames that can be mistaken for command options, and how using `./` helps avoid confusion when dealing with tricky filenames.
 
+![Bandit Level 0 to 1 Screenshot](images/bandit1-2.png)
+
+
 
 
 
