@@ -47,5 +47,4 @@ This level showed me how to handle binary files on the command line and use tool
 
 ---
 
-*(Add your screenshot here for documentation!)*
-
+![Bandit Level 0 to 1 Screenshot](images/bandit9-10.png)
