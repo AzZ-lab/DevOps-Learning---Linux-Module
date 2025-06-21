@@ -4,6 +4,8 @@
 
 Find the password for the next level, stored in a file called `spaces in this filename` in the home directory.
 
+---
+
 ### **My Steps**
 
 1. **List files in the directory:**
@@ -22,8 +24,12 @@ Find the password for the next level, stored in a file called `spaces in this fi
 3. **Retrieve the password:**
    The password was displayed in the terminal, allowing me to proceed to the next level.
 
+---
+
 **Reflection:**
 This challenge taught me the importance of handling filenames with spaces in the Linux command line, and how quoting the filename lets me interact with it easily.
+
+---
 
 
 ![Bandit Level 0 to 1 Screenshot](images/bandit2-3.png)
