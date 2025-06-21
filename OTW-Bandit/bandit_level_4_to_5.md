@@ -5,6 +5,8 @@
 
 Find the password for the next level, which is stored in the only human-readable file in the `inhere` directory.
 
+---
+
 ### **My Steps**
 
 1. **Explore the directory:**
@@ -22,11 +24,14 @@ Find the password for the next level, which is stored in the only human-readable
 3. **Read the password:**
    I used `cat ./file07` to print the contents of the readable file, and the password for the next level was revealed.
 
+---
+
 
 
 **Reflection:**
 This level taught me how to quickly distinguish human-readable files from binary files using the `file` command—a useful technique when working with lots of unknown files in a directory.
 
+---
 
 ![Bandit Level 0 to 1 Screenshot](images/bandit4-5.png)
 
