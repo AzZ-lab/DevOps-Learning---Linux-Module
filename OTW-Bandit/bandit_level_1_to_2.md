@@ -1,6 +1,3 @@
-Absolutely! Here’s a clean, organized, first-person writeup for your challenge, great for your markdown file:
-
----
 
 ## Bandit Level 1 → Level 2: My Approach
 
