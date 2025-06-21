@@ -41,4 +41,6 @@ This level was a great exercise in using the `find` command with multiple condit
 
 ---
 
+![Bandit Level 0 to 1 Screenshot](images/bandit5-6.png)
+
 
