@@ -42,4 +42,4 @@ Even though the command produced many "Permission denied" messages, I learned ho
 
 ---
 
-*(Add your screenshot below for documentation!)*
+
