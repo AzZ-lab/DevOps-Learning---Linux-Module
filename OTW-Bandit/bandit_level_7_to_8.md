@@ -32,5 +32,5 @@ This challenge reminded me of the power of combining basic file navigation (`ls`
 
 ---
 
-
+![Bandit Level 0 to 1 Screenshot](images/bandit7-8.png)
 
