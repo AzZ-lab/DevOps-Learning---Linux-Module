@@ -42,4 +42,6 @@ Even though the command produced many "Permission denied" messages, I learned ho
 
 ---
 
+![Bandit Level 0 to 1 Screenshot](images/bandit6-7.png)
+
 
